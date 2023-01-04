@@ -35,8 +35,6 @@ Git checkout -b feature/ ⮕ create new branch
 Git branch -d ⮕ delete a branch
 Git fetch --prune ⮕ delete old branches
 
-
-
 ------------------------------------
 Npm --version ⮕ version of current npm software
 Npm run test:debug ⮕ runs karma & test chrome
