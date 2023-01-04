@@ -1,6 +1,8 @@
 # Command-Line
 Important "Command Lines" for VS-Code | IntelliJ 
 
+![alt text](https://image.noelshack.com/fichiers/2023/01/3/1672808213-shell2.png)
+
 How To Create New Directory on MAC:
 
 ------------------------------------
