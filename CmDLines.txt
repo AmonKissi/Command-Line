@@ -9,6 +9,7 @@ How To Create New Directory on MAC:
 ------------------------------------
 Pwd ⮕ check where you at
 Ls ⮕ list of file
+Mkdir <dir name> --- creates a new directory
 Cd <directory> ⮕  takes you inside the directory
 Cd .. ⮕ brings you back to the previous directory
 Node --version (node -v) ⮕ version of current node software
