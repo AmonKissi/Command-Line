@@ -34,6 +34,7 @@ Git add -p ⮕ stage
 Git stash ⮕ commit all changes (git stash, git pull, git checkout)
 Git checkout -b feature/ ⮕ create new branch
 Git branch -d ⮕ delete a branch
+Git push origin --delete master ⮕ force delete branch even if changes has been pushed 
 Git fetch --prune ⮕ delete old branches
 
 ------------------------------------
