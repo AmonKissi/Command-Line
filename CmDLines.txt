@@ -27,6 +27,7 @@ Git checkout feature/ ⮕ switch to a different branch
 Git checkout master ⮕ go to master
 Git pull ⮕ pull data from remote repo
 Git checkout -b ⮕ create a new branch for the first time
+Git add . ⮕ add files and changes made before commit
 Git add -a ⮕ best way to check all files and changes made (Better than get add .)
 Git commit -m "<commit-message>" ⮕ how to push changes info
 Git push / Git push --set-upstream origin ⮕ push changes to master
@@ -38,6 +39,8 @@ Git push origin --delete master ⮕ force delete branch even if changes has been
 Git fetch --prune ⮕ delete old branches
 
 ------------------------------------
+Npm install (npm i) ⮕ install all dependencies 
+Npm run build ⮕ build packages
 Npm --version ⮕ version of current npm software
 Npm run test:debug ⮕ runs karma & test chrome
 Npm run test:coverage ⮕ show errors in files (copy path)
@@ -46,6 +49,15 @@ Npm run test:watch --true ⮕ keeps test running
 Npm run start:driver-app ⮕ runs driver app
 Npm run start:micro-app ⮕ runs micro app
 Npm run build:micro-app ⮕ builds micro app
+
+-------------------------------------
+-------- Next.js --------------------
+Npx create-next-app 
+Npx nx build app
+Npm i next@latest react@latest react-dom@latest eslint-config-next@latest
+Npm run nextjs@0.1.0 dev 
+
+-------------------------------------
 
 ./gradlew bootrun ⮕ runs outer api
 ./gradlew clean ⮕ cleans code
