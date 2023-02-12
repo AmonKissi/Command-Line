@@ -72,3 +72,13 @@ Cmd + K + C ⮕ comment
 
 ------------------------------------
 Ctrl C ⮕ kill top (stop running code)
+
+------------------------------------
+In Linux: host -t NS [yourdomain]
+
+In Microsoft Windows: nslookup -query=NS [yourdomain]
+
+
+
+
+
