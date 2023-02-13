@@ -78,6 +78,9 @@ In Linux: host -t NS [yourdomain]
 
 In Microsoft Windows: nslookup -query=NS [yourdomain]
 
+make sure your server is running and can be accessed using the domain name: ping [yourdomain]
+
+
 
 
 
