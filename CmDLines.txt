@@ -30,6 +30,7 @@ Git checkout -b ⮕ create a new branch for the first time
 Git add . ⮕ add files and changes made before commit
 Git add -a ⮕ best way to check all files and changes made (Better than get add .)
 Git commit -m "<commit-message>" ⮕ how to push changes info
+Git commit -m "<commit-message>" --no-verify ⮕ commit changes without verifying (bypass ESlint)
 Git push / Git push --set-upstream origin ⮕ push changes to master
 Git add -p ⮕ stage
 Git stash ⮕ commit all changes (git stash, git pull, git checkout)
