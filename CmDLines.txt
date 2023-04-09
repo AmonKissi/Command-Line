@@ -75,6 +75,22 @@ Cmd + K + C ⮕ comment
 Ctrl C ⮕ kill top (stop running code)
 
 ------------------------------------
+Tailwinds ⮕ 
+Align items center ⮕ flex items-center justify-center h-screen
+flex: Adds the display: flex CSS property
+justify-center: This centers the div horizontally
+items-center: This centers the content vertically
+h-screen: Sets the 100vh (screen-height) as the height
+
+Buttons ⮕ https://v1.tailwindcss.com/components/buttons
+Visibility ⮕ https://v1.tailwindcss.com/docs/visibility
+Background Color ⮕ https://tailwindcss.com/docs/background-color
+Handling Hover, Focus, and Other States ⮕ https://tailwindcss.com/docs/hover-focus-and-other-states#
+
+https://www.hyperui.dev/
+
+
+------------------------------------
 In Linux: host -t NS [yourdomain]
 
 In Microsoft Windows: nslookup -query=NS [yourdomain]
